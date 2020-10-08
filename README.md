@@ -60,7 +60,7 @@ pip install mesa-geo
 ```
 
 ## Getting started
-The interactive example is in the notebook `QuickStartABM.ipynb` <br>
+The interactive example is in the notebook `QuickstartABM.ipynb` <br>
 I recommand checking out MESA's documentation and examples, which is very well documented: <br>
 https://mesa.readthedocs.io/en/master/tutorials/intro_tutorial.html <br>
 MESA-geo also have some examples that could be useful, but I'd rather recommand talk to me first since it's not as clear as MESA's: <br>
