@@ -17,12 +17,12 @@ conda activate myenv
 ```
 
 #### If you are using a Mac/Linux Machine:
-install geopandas with:
+install GeoPandas with:
 ```shell
 pip install geopandas
 ```
 #### If you are using a Windows Machine: 
-To avoid several version conflicts Geopandas raises, I recommand downloading the dependent libraries' wheel files with the following link:
+To avoid several version conflicts GeoPandas raises, I recommand downloading the dependent libraries' wheel files with the following link:
 https://drive.google.com/drive/folders/1NHOd7DQsXjBxoUZg0mrziF2HKiPoRDIn?usp=sharing
 
 Unzip and locate your download directory with Anaconda Prompt and <b> FIRST </b> install GDAL with:
@@ -39,7 +39,7 @@ pip install pyproj-2.6.1.post1-cp37-cp37m-win_amd64.whl
 pip install Rtree-0.9.4-cp37-cp37m-win_amd64.whl
 pip install Shapely-1.7.0-cp37-cp37m-win_amd64.whl
 ```
-Now you can install Geopandas with:
+Now you can install GeoPandas with:
 ```shell
 pip install geopandas
 ```
