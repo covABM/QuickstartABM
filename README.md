@@ -56,13 +56,12 @@ pip install mesa
 ```
 Install geospatial-enabled MESA extension mesa-geo with:
 <br>
-( <br>
-If you are using a Mac Machine:
+<br>
+If you are using a Mac Machine: <br>
 Install rtree <b> FIRST </b> with `conda`, there seems exist some distribution issue with `pip` specificly with Mac:
 ```shell
 conda install rtree
 ```
-) <br>
 <br>
 ```shell
 pip install mesa-geo
