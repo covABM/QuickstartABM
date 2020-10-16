@@ -55,8 +55,22 @@ Install ABM package MESA with:
 pip install mesa
 ```
 Install geospatial-enabled MESA extension mesa-geo with:
+<br>
+(If you are using a Mac Machine:
+Install rtree <b> FIRST </b> with `conda`, there seems exist some distribution issue with `pip` specificly with Mac:
+```shell
+conda install rtree
+```
+) <br>
+<br>
 ```shell
 pip install mesa-geo
+```
+
+### Install Jupyter
+Since we create a new Anaconda environment, Jupyter is not default installed:
+```shell
+pip install jupyter
 ```
 
 ## Getting started
