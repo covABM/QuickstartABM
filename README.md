@@ -55,7 +55,7 @@ Install ABM package MESA with:
 pip install mesa
 ```
 ### Install MESA-geo
-If you are using a Mac Machine: <br>
+#### If you are using a Mac Machine: <br>
 Install rtree <b> FIRST </b> with `conda` (there seems exist some distribution issue with `pip` specificly to Mac):
 ```shell
 conda install rtree
