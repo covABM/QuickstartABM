@@ -49,20 +49,18 @@ Install matplotlib with:
 ```shell
 pip install matplotlib
 ```
-### Install MESA/MESA-geo
+### Install MESA
 Install ABM package MESA with:
 ```shell
 pip install mesa
 ```
-Install geospatial-enabled MESA extension mesa-geo with:
-<br>
-<br>
+### Install MESA-geo
 If you are using a Mac Machine: <br>
-Install rtree <b> FIRST </b> with `conda`, there seems exist some distribution issue with `pip` specificly with Mac:
+Install rtree <b> FIRST </b> with `conda` (there seems exist some distribution issue with `pip` specificly to Mac):
 ```shell
 conda install rtree
 ```
-<br>
+Install geospatial-enabled MESA extension mesa-geo with: <br>
 ```shell
 pip install mesa-geo
 ```
